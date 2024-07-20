@@ -1,9 +1,9 @@
 # DU-project-1
 
 ## Project Team
- - Jeff Flachman
- - Tomas Brown
- - Pedro Zurita
+- Thomas Brown
+- Jeff Flachman
+- Pedro Zurita
 
 ## Project 1 Instructions / Directions
 
